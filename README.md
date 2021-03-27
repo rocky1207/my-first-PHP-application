@@ -4,17 +4,17 @@ This application is not about design. I just tested what I have learned at ITAca
 IMPORTANT!!!
 THIS IS THE DATA NEDEED TO LOG IN!!
 
-ADMINISTRATOR:
+ADMIN:
 Username: rocky;
 Password: rocky1207;
 Email: mjrocky589@gmail.com;
 
-KORISNIK BR. 1:
+USER No. 1:
 Username: user1;
 Password: user1;
 Email: user1@gmail.com;
 
-KORISNIK BR. 2:
+USER No. 2:
 Username: user2;
 Password: user2;
 Email: user2@gmail.com;
